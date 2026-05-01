@@ -1,10 +1,10 @@
-# 🧪 Toxic Comment Classifier
+ Toxic Comment Classifier
 
 A deep learning project to detect and classify toxic comments using **LSTM** and **BERT** models, deployed as an interactive web application using **Streamlit**.
 
 ---
 
-## 📌 Project Overview
+ Project Overview
 
 This project builds a **multi-label text classification** system that identifies toxic content in comments across 6 categories:
 
@@ -19,7 +19,7 @@ This project builds a **multi-label text classification** system that identifies
 
 ---
 
-## 📁 Project Structure
+📁 Project Structure
 
 ```
 comment_toxicity_DL/
